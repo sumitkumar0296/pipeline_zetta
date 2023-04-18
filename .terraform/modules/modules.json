@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ResourceGroup","Source":"./ResourceGroup","Dir":"ResourceGroup"},{"Key":"StorageAccount","Source":"./StorageAccount","Dir":"StorageAccount"},{"Key":"StorageAccountBlobs","Source":"./StorageAccountBlobs","Dir":"StorageAccountBlobs"},{"Key":"StorageAccountblob","Source":"./StorageAccount","Dir":"StorageAccount"}]}
